@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بنتست برو</string>
+    <string name="subtitle">منصة احترافية لاختبارات الاختراق</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="total_projects">إجمالي المشاريع</string>
+    <string name="active_projects">المشاريع النشطة</string>
+    <string name="vulnerabilities_found">الثغرات الموجودة</string>
+    <string name="vulnerability_summary">ملخص الثغرات</string>
+    <string name="recent_projects">المشاريع الأخيرة</string>
+    <string name="quick_actions">إجراءات سريعة</string>
+
+    <!-- Projects -->
+    <string name="projects">المشاريع</string>
+    <string name="new_project">مشروع جديد</string>
+    <string name="project_name">اسم المشروع</string>
+    <string name="client_name">اسم العميل</string>
+    <string name="target_domain">النطاق/عنوان IP المستهدف</string>
+    <string name="authorized_scope">النطاق المصرح</string>
+    <string name="start_date">تاريخ البداية</string>
+    <string name="end_date">تاريخ الانتهاء</string>
+    <string name="project_status">حالة المشروع</string>
+    <string name="notes">ملاحظات</string>
+    <string name="authorization_confirmation">تأكيد التفويض</string>
+    <string name="upload_authorization">رفع التفويض المكتوب</string>
+    <string name="status_planning">التخطيط</string>
+    <string name="status_active">نشط</string>
+    <string name="status_completed">مكتمل</string>
+    <string name="status_reported">تم الإبلاغ</string>
+    <string name="edit_project">تعديل المشروع</string>
+    <string name="delete_project">حذف المشروع</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+
+    <!-- Reconnaissance -->
+    <string name="reconnaissance">المراقبة</string>
+    <string name="dns_lookup">البحث عن DNS</string>
+    <string name="whois_lookup">بحث WHOIS</string>
+    <string name="port_scanner">ماسح المنافذ</string>
+    <string name="http_headers">رؤوس HTTP</string>
+    <string name="domain_ip">النطاق/عنوان IP</string>
+    <string name="scan_ports">مسح المنافذ</string>
+    <string name="target_url">عنوان URL المستهدف</string>
+    <string name="scanning">جاري المسح...</string>
+    <string name="scan_complete">اكتمل المسح</string>
+    <string name="port">المنفذ</string>
+    <string name="protocol">البروتوكول</string>
+    <string name="status">الحالة</string>
+    <string name="open">مفتوح</string>
+    <string name="closed">مغلق</string>
+    <string name="filtered">مُرشح</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="error_scanning">خطأ أثناء المسح</string>
+
+    <!-- Vulnerabilities -->
+    <string name="vulnerabilities">الثغرات</string>
+    <string name="add_vulnerability">إضافة ثغرة</string>
+    <string name="vulnerability_title">عنوان الثغرة</string>
+    <string name="description">الوصف</string>
+    <string name="affected_url">عنوان URL المتأثر</string>
+    <string name="proof_of_concept">إثبات المفهوم</string>
+    <string name="remediation">الحل</string>
+    <string name="cvss_score">درجة CVSS</string>
+    <string name="severity">الخطورة</string>
+    <string name="critical">حرج</string>
+    <string name="high">عالية</string>
+    <string name="medium">متوسطة</string>
+    <string name="low">منخفضة</string>
+    <string name="info">معلومات</string>
+    <string name="attach_screenshot">إرفاق لقطة شاشة</string>
+    <string name="owasp_classification">تصنيف OWASP</string>
+    <string name="edit_vulnerability">تعديل الثغرة</string>
+    <string name="delete_vulnerability">حذف الثغرة</string>
+
+    <!-- OWASP -->
+    <string name="owasp_top_10">أفضل 10 من OWASP</string>
+    <string name="owasp_checklist">قائمة فحص أفضل 10 من OWASP</string>
+    <string name="not_tested">لم يتم الفحص</string>
+    <string name="tested_safe">تم الفحص - آمن</string>
+    <string name="vulnerable">عرضة للخطر</string>
+    <string name="owasp_1">A01:2021 – التحكم في الوصول المنكسر</string>
+    <string name="owasp_2">A02:2021 – فشل التشفير</string>
+    <string name="owasp_3">A03:2021 – الحقن</string>
+    <string name="owasp_4">A04:2021 – التصميم غير الآمن</string>
+    <string name="owasp_5">A05:2021 – سوء تكوين الأمان</string>
+    <string name="owasp_6">A06:2021 – المكونات الضعيفة والقديمة</string>
+    <string name="owasp_7">A07:2021 – فشل المصادقة</string>
+    <string name="owasp_8">A08:2021 – فشل السلامة البرمجية والبيانات</string>
+    <string name="owasp_9">A09:2021 – فشل التسجيل والمراقبة</string>
+    <string name="owasp_10">A10:2021 – التزييف من جانب الخادم</string>
+    <string name="add_note">إضافة ملاحظة</string>
+
+    <!-- Reports -->
+    <string name="reports">التقارير</string>
+    <string name="generate_report">إنشاء تقرير</string>
+    <string name="executive_summary">الملخص التنفيذي</string>
+    <string name="methodology">المنهجية</string>
+    <string name="findings">النتائج</string>
+    <string name="remediation_recommendations">توصيات الحل</string>
+    <string name="export_pdf">تصدير كـ PDF</string>
+    <string name="share_report">مشاركة التقرير</string>
+    <string name="report_generated">تم إنشاء التقرير بنجاح</string>
+    <string name="error_generating_report">خطأ في إنشاء التقرير</string>
+
+    <!-- Settings -->
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="theme">المظهر</string>
+    <string name="dark_theme">المظهر الداكن</string>
+    <string name="light_theme">المظهر الفاتح</string>
+    <string name="security">الأمان</string>
+    <string name="app_lock">قفل التطبيق</string>
+    <string name="enable_fingerprint">تفعيل قفل البصمة</string>
+    <string name="enable_pin">تفعيل قفل PIN</string>
+    <string name="set_pin">تعيين PIN</string>
+    <string name="about">حول</string>
+    <string name="version">الإصدار</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_of_service">شروط الخدمة</string>
+
+    <!-- Dialogs -->
+    <string name="confirm_delete">هل أنت متأكد من أنك تريد حذف هذا؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="disclaimer">إخلاء المسؤولية</string>
+    <string name="disclaimer_text">هذا التطبيق مصمم لاختبار الأمان المصرح به فقط. الوصول غير المصرح إلى أنظمة الكمبيوتر غير قانوني. يجب أن يكون لديك إذن مكتوب صريح قبل إجراء أي أنشطة اختبار اختراق.</string>
+    <string name="agree">أوافق</string>
+    <string name="disagree">أرفض</string>
+
+    <!-- Messages -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="success">نجح</string>
+    <string name="error">خطأ</string>
+    <string name="retry">إعادة محاولة</string>
+    <string name="network_error">خطأ في الشبكة</string>
+    <string name="try_again">حاول مرة أخرى</string>
+    <string name="empty_state">لا توجد بيانات متاحة</string>
+</resources>
