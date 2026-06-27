@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">بنتست برو</string>
-    <string name="subtitle">منصة احترافية لاختبارات الاختراق</string>
+    <string name="subtitle">منصة احترافية لاختبارات الاخترaq</string>
 
     <!-- Dashboard -->
     <string name="dashboard">لوحة التحكم</string>
@@ -126,7 +126,7 @@
     <string name="yes">نعم</string>
     <string name="no">لا</string>
     <string name="disclaimer">إخلاء المسؤولية</string>
-    <string name="disclaimer_text">هذا التطبيق مصمم لاختبار الأمان المصرح به فقط. الوصول غير المصرح إلى أنظمة الكمبيوتر غير قانوني. يجب أن يكون لديك إذن مكتوب صريح قبل إجراء أي أنشطة اختبار اختراق.</string>
+    <string name="disclaimer_text">هذا التطبيق مصمم لاختبار الأمان المصرح به فقط. الوصول غير المصرح إلى أنظمة الكمبيوتر غير قانوني. يجب أن يكون لديك إذن مكتوب صريح قبل إجراء أي أنشطة اختبار اخترaq.</string>
     <string name="agree">أوافق</string>
     <string name="disagree">أرفض</string>
 
